@@ -1,0 +1,12 @@
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+ner-distilbert/
+ner-distilbert-final/
+*.pt
+*.bin
+*.safetensors
+wandb/
+gensim-data/
+.env
+.DS_Store
